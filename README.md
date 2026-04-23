@@ -28,13 +28,13 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats]()
+![GitHub Stats](https://github.com/supriyokanrar626-sketch)
 
 ---
 
 ## 🔗 Connect with Me
 - 📧 Email: supriyokanrar626@gmail.com  
-- 💼 LinkedIn: your-linkedin-link  
+- 💼 LinkedIn: (https://www.linkedin.com/in/supriyo-kanrar-0a5b17331?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
 
 ---
 
