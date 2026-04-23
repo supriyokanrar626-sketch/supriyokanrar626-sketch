@@ -13,9 +13,9 @@
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: Python, C, Java  
+- 💻 Languages: Python, C, Java , C++  
 - 📊 ML/AI: TensorFlow, Scikit-learn, OpenCV  
-- 🌐 Web: HTML, CSS, JavaScript  
+- 🌐 Web: HTML, CSS, JavaScript (Basic) 
 - 🛢️ Database: MySQL  
 
 ---
