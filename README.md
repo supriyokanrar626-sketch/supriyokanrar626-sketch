@@ -28,12 +28,12 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats]()
 
 ---
 
 ## 🔗 Connect with Me
-- 📧 Email: your-email@gmail.com  
+- 📧 Email: supriyokanrar626@gmail.com  
 - 💼 LinkedIn: your-linkedin-link  
 
 ---
