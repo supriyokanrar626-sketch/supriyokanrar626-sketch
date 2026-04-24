@@ -22,7 +22,7 @@
 
 ## 📌 Projects
 - 🔍 Deepfake Detection System (AI/ML-based)  
-- 🎮 Hangman Game (C Project)  
+- 🎮 Hangman Game (Python Project)  
 - 📈 Data Analysis using Python  
 
 ---
