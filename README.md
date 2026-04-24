@@ -16,7 +16,7 @@
 - 💻 Languages: Python, C, Java , C++  
 - 📊 ML/AI: TensorFlow, Scikit-learn, OpenCV  
 - 🌐 Web: HTML, CSS, JavaScript (Basic) 
-- 🛢️ Database: MySQL  
+- 🛢️ Database: MySQL , PowerBi
 
 ---
 
