@@ -32,7 +32,7 @@
 
 ---### 📈 My Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpanhait&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SupriyoKanrar&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph">
 </p>
 
 ##
