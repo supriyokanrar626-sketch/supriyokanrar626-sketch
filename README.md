@@ -30,7 +30,13 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github.com/supriyokanrar626-sketch)
 
----
+---### 📈 My Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpanhait&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph">
+</p>
+
+##
+
 
 ## 🔗 Connect with Me
 - 📧 Email: supriyokanrar626@gmail.com  
