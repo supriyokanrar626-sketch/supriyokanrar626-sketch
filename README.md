@@ -21,7 +21,8 @@
 ---
 
 ## 📌 Projects
-- 🔍 Deepfake Detection System (AI/ML-based)  
+- 🔍 Deepfake Detection System (AI/ML-based)
+- 🌿 Smart Crop Recommandation System for Small & Merginal Farmers..(AI/ML-based)
 - 🎮 Hangman Game (Python Project)  
 - 📈 Data Analysis using Python  
 
